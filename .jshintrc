@@ -1,0 +1,4 @@
+{
+    "camelcase": true, // Названия переменных в camelCase стиле
+    "esversion": 6, // Включить функции, представленные в ECMAScript 8.
+}

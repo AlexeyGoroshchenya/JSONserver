@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Квока",
+      "email": "dhjgddjdf@dgdfh",
+      "children": false,
+      "permissions": false,
+      "id": 2
+    },
+    {
+      "name": "Алеха1",
+      "email": "dfg@dfgdf.com",
+      "children": true,
+      "permissions": false,
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
